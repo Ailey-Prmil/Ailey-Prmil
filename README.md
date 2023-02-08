@@ -1,4 +1,3 @@
-# Hi there 👋
 ## Aaliyah Laurier - Fresher 
 ### Everything related to data intrigue me.
 Currently I am learning Python, R, SQL and C++, still new to coding...
