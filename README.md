@@ -1,4 +1,4 @@
-## Aaliyah Laurier - Fresher 
+## Me - An eager Fresher 
 ### Everything related to data intrigues me.
 Currently I am learning Python, R, SQL and C++, still new to coding...  
 ***
